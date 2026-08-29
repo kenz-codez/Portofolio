@@ -32,6 +32,7 @@ Saya memiliki tujuan untuk melanjutkan pembelajaran ke bidang Network Security d
 - Linux security dasar
 
 # Project
+https://github.com/kenz-codez/Project
 
 ### Currently Learning
 
