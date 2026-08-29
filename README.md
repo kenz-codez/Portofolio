@@ -3,7 +3,7 @@ Saya adalah siswa kelas 10 Teknik Komputer dan Jaringan (TKJ) yang memiliiki ket
 Saat ini saya sedang membangun kemampuan saya melalui pembelajaran mandiri dan berbagai project sederhana di lingkungan rumah.
 Saya memiliki tujuan untuk melanjutkan pembelajaran ke bidang Network Security dan Penetration Testing.
 
-### Skill ###
+### Skill
 1. Networking
 - TCP/IP dasar
 - IP Addressing
@@ -37,6 +37,6 @@ Saya memiliki tujuan untuk melanjutkan pembelajaran ke bidang Network Security d
 
 ### Certification ###
 
-# Education
+## Education ##
 
-## Contact
+### Contact
