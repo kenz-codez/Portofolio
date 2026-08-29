@@ -30,3 +30,13 @@ Saya memiliki tujuan untuk melanjutkan pembelajaran ke bidang Network Security d
 - Security fundamentals
 - Network security dasar
 - Linux security dasar
+
+### Project ###
+
+### Currently Learning ###
+
+### Certification ###
+
+# Education
+
+# Contact
