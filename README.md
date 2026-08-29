@@ -32,12 +32,12 @@ Saya memiliki tujuan untuk melanjutkan pembelajaran ke bidang Network Security d
 - Linux security dasar
 
 # Project
-https://github.com/kenz-codez/Project
+### Homelab Project : https://github.com/kenz-codez/Homelab-Project
 
-### Currently Learning
+# Currently Learning
 
-### Certification
+# Certification
 
-### Education
+# Education
 
-### Contact
+# Contact
