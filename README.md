@@ -33,6 +33,7 @@ Saya memiliki tujuan untuk melanjutkan pembelajaran ke bidang Network Security d
 
 ### Project
 **Homelab Project** : https://github.com/kenz-codez/Homelab-Project
+<br>
 
 ### Currently Learning
 .
@@ -45,5 +46,7 @@ Saya memiliki tujuan untuk melanjutkan pembelajaran ke bidang Network Security d
 
 ### Contact
 Email : gedekenziec@gmail.com
-Github : 
+<br>
+Github :
+<br>
 LinkedIn : https://www.linkedin.com/in/i-gede-kenzie-clearesta-391630405/
