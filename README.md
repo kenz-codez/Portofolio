@@ -44,3 +44,6 @@ Saya memiliki tujuan untuk melanjutkan pembelajaran ke bidang Network Security d
 .
 
 ### Contact
+Email : gedekenziec@gmail.com
+Github : 
+LinkedIn : https://www.linkedin.com/in/i-gede-kenzie-clearesta-391630405/
